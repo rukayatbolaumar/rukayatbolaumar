@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="github.png" title="Click for the larger version." /></a>
 
 <h1 align="center">Hi 👋, I'm Rukayat Bola-Umar.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
