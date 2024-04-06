@@ -1,4 +1,4 @@
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGBnf2Js9c&#x2F;ZPWYIVG5IE5dQLqxqkgMQA&#x2F;watch?utm_content=DAGBnf2Js9c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">github</a>
+<a href="https://drive.google.com/uc?export=view&id=1ciVXREm9dU2sSiodWml63IEi6hcpu-HU"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 <h1 align="center">Hi 👋, I'm Rukayat Bola-Umar.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
