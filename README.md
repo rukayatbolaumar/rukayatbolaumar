@@ -1,4 +1,4 @@
-<a href="github.png" title="Click for the larger version." /></a>
+<a href="[github.png](https://github.com/rukayatbolaumar/rukayatbolaumar/blob/2748745a4fe39b7213797966c1d87aed9c674c4b/github.png)" title="Click for the larger version." /></a>
 
 <h1 align="center">Hi 👋, I'm Rukayat Bola-Umar.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
